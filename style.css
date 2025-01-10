@@ -1,0 +1,35 @@
+.main-container {
+width:100%;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.header{
+    width:100%;
+    padding:5px;
+    margin:5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    margin: 5px;
+}
+
+.main-content{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding:auto;
+}
+.main-container p{
+    margin:5px;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
